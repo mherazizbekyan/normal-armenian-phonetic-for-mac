@@ -1,8 +1,8 @@
 # normal-armenian-phonetic-for-mac
 
-1 Download armenian-phonetic.icns and armenian-phonetic.keylayout files
+Download armenian-phonetic.icns and armenian-phonetic.keylayout files
 
-2 move them to /Library/Keyboard Layouts on your machine
+Move them to /Library/Keyboard Layouts on your machine
 
 ``sudo mv ~/Downloads/"Armenian Phonetic.icns" /Library/Keyboard\ Layouts/
 ``
