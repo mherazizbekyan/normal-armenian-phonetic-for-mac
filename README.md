@@ -1,5 +1,7 @@
 # normal-armenian-phonetic-for-mac
 
+Armenian phonetic for mac where R is Ր
+
 Download armenian-phonetic.icns and armenian-phonetic.keylayout files
 
 Move them to /Library/Keyboard Layouts on your machine
